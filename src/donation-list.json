@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Ocean's Coral Feef",
+    "type": "Zakat",
+    "amount": 15,
+    "imgSrc": "",
+    "one": true,
+    "monthly": false
+  },
+  {
+    "id": 2,
+    "title": "Ocean's Coral Feef",
+    "type": "Zakat",
+    "amount": 100,
+    "imgSrc": "",
+    "one": false,
+    "monthly": true
+  },
+  {
+    "id": 3,
+    "title": "Ocean's Coral Feef",
+    "type": "Zakat",
+    "amount": 165,
+    "imgSrc": "",
+    "one": true,
+    "monthly": false
+  }
+]
